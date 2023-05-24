@@ -37,7 +37,7 @@ Web Based Programming PHP Project
 
 ## Kullanım
 
-Program çalıştırıldığında karşınıza ilk olarak aşağıda görüldüğü gibi ekran çıkacaktır.Bu sayafaya eerişmek için herhangi bir kayıt işlemi gerekmemektedir.
+Program çalıştırıldığında karşınıza ilk olarak aşağıda görüldüğü gibi ekran çıkacaktır.Bu sayafaya erişmek için herhangi bir kayıt işlemi gerekmemektedir.
 
 
 ![alt text](https://github.com/EmineSener/henry/blob/main/readme/giris.png)
@@ -157,6 +157,17 @@ Projede hayali bir site olan Henry için site yapılmıştır .
 
 Site yapısı farklı şirketler için kolayca dönüştürlebilir şekildedir.
 
+
+Siteye kayıt olmadan inceleme yapmak istiyorsanız aşağıdaki bilgilerle giriş yapabilirsiniz.
+
+
+#### Yönetici Girişi
+eminesener
+1234
+
+#### Çalışan Girişi
+mustafasener
+12345
 
 ## Henry site 
 
