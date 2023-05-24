@@ -100,45 +100,38 @@ En çok satan ürününüz ve bilgileri gösterilmektedir.
 ![alt text](https://github.com/EmineSener/henry/blob/main/readme/analiz2.png)
 
 
-![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images/window4%20-%20Kopya.png)
+Eğer çalışan olarak giriş yaparsanız yine şirketin en yeni başarılarını gösteren bir ekran ve butonlar gelecektir.
+
+Yönetici sayfasında bulunmayan bir butonunuz olacak : satış kaydı yap 
+
+Bu butona tıkladığınızda ürünler listesi ve yanlarında satış kaydına git butonları çıkacaktır.
+
+![alt text](https://github.com/EmineSener/henry/blob/main/readme/satis1.png)
+
+Ardından satış yaptığınız ürünün satış bilgilerini satış kayıt formuna giriniz.
+
+
+![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images/satis2.png)
 
 
 
-Son aşamada ise sonuç kullanıcıya bildirilir.
-
-![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images/window5.png)
+Satışları listele özelliği sayesinde çalıştığınız firmadaki yapılan diğer satışları görebilirsiniz.
 
 
-
-
-##### Back ve Next Butonları
-
-`Next` butonu sayesinde seçimlerinizi ve girdilerinizi sabitleyip bir sonraki aşamaya geçebilirsiniz.
-
-`Next` butonuna son defa basılmasıyla sonuca ulaşılır.
-
-`Back` butonuyla seçimlerinizi ve miktar girdinizi değiştirebilirsiniz.
-
-Bu özellikle eldeki para her üç birime de tek seferde dönüştürülebilir.
 
 
 
 ## Proje Detayı
 
-Programda kullanıcı kaynaklı hatalar mesaj kutuları aracılığıyla kullanıcı bilgilendirilerek engellenmiştir.
+Projede hayali bir site olan Henry için site yapılmıştır .
 
-Eğer kullanıcı hesaplatmak istediği miktarı rakam harici değer ile girerse program takip eden uyarı mesajını verecektir.
+Site yapısı farklı şirketler için kolayca dönüştürlebilir şekildedir.
 
-![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images_warn/warn1.png)
+## Henry site 
 
-
-
-Kullanıcı hangi para birimini dönüştürmek istediğini ve hangi para birimine dönüştüreceğini aynı seçerse aşağıdaki uyarı mesajı verilecektir.
-
-![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images_warn/warn2.png)
+http://henrycompany.lovestoblog.com/
 
 
 
-Son olarak, kullanıcı her iki birimi de seçmeden hesaplama yapmak isterse takip eden uyarı mesajı verilip programın sonlanması önlenecektir.
 
-![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images_warn/warn3.png)
+
