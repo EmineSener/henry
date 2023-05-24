@@ -142,7 +142,7 @@ Bu butona tıkladığınızda ürünler listesi ve yanlarında satış kaydına 
 Ardından satış yaptığınız ürünün satış bilgilerini satış kayıt formuna giriniz.
 
 
-![alt text](https://github.com/EmineSener/CurrencyConverter/blob/main/images/satis2.png)
+![alt text](https://github.com/EmineSener/henry/blob/main/readme/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(179).png)
 
 
 Satışları listele özelliği sayesinde çalıştığınız firmadaki yapılan diğer satışları görebilirsiniz.
